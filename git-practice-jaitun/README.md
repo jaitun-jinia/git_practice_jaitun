@@ -1,6 +1,7 @@
 # Git Practice Project
 
 Name: Jaitun Jinia
+Github username: jaitun-jinia
 
 This project demonstrates Git and GitHub workflow including branching, merging, and multiple commits.
 
@@ -8,3 +9,4 @@ This project demonstrates Git and GitHub workflow including branching, merging, 
 - Basic calculator
 - Date printing
 - Git workflow practice
+
